@@ -1,1 +1,1 @@
-print("Andrii Ostrolutskyi, KN-5")
+print("Andrii Ostrolutskyi, KN-")
