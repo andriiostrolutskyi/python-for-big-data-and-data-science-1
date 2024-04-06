@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9149a04a-4a02-492e-b9d6-c3afa83a7fbd" name="Changes" comment="Done practice #8" />
+    <list default="true" id="9149a04a-4a02-492e-b9d6-c3afa83a7fbd" name="Changes" comment="Done practice #9" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +81,7 @@
       <workItem from="1710734163074" duration="48000" />
       <workItem from="1710734445264" duration="7000" />
       <workItem from="1711339726422" duration="545000" />
+      <workItem from="1712010702885" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="first lab">
       <option name="closed" value="true" />
@@ -178,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711339776996</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Done practice #9">
+      <option name="closed" value="true" />
+      <created>1712010795241</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1712010795241</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,7 +212,8 @@
     <MESSAGE value="Done practice #5" />
     <MESSAGE value="Done practice #6" />
     <MESSAGE value="Done practice #8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done practice #8" />
+    <MESSAGE value="Done practice #9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done practice #9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_for_big_data_and_data_science$python_practice_1.coverage" NAME="python_practice_1 Coverage Results" MODIFIED="1707077663830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
